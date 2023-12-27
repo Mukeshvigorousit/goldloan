@@ -1,0 +1,45 @@
+<?php
+include('../include/config.php');
+if(!isset($_POST))
+{
+	invalid();
+}
+$_POST=$post_array=sanatize($_POST);
+extract($_POST);
+if($is_client==false)
+{
+$amount=$update_limit=$_POST['update_limit'];
+$user_result=get_user_list('',$post_array['user_id']);
+$parent_id=$creater_id=$user_result['creater_id'];
+$return=check_id($post_array['user_id']);
+if($return==1)
+{
+ $update_status=update_user_coins($parent_id,$user_id,$update_limit);
+ $status=$update_status['status'];
+ $msg=$update_status['data']['msg'];
+}
+else
+{
+	$status='error';
+	$msg="Something went wrong";
+}
+}
+else
+{
+	if(isset($client_id))
+	{
+		$update_status=update_client_coins($client_id,$update_limit);
+		$status=$update_status['status'];
+		$msg=$update_status['data']['msg'];
+	}
+}
+
+		$send_array=array('msg'=>$msg);
+			$data_to_send=array(
+			'data'=>$send_array,
+			'status'=>$status
+		);
+		$data=json_encode($data_to_send);
+		echo $data;
+	   exit();
+?>

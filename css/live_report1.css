@@ -1,0 +1,249 @@
+    
+
+
+
+            <style type="text/css">
+  @media all and (max-height: 480px){
+        body {
+          padding-top: 60px !important;
+        }
+      }
+
+      .score-event-box,
+      .current-event-box
+      {
+        height: 100px;
+      }
+
+      .marquee {
+          width: 100%;
+          overflow: hidden;
+          border:0px solid #ccc;
+          background: #6E8FC9;
+          color: #fff;
+          padding: 0px 1px;
+          margin-right: 15%;
+      }
+      ul.marquee li {
+          display: inline-block;
+          padding: 4px;
+          font-size: 16px;
+          font-weight: 600;
+          font-family: 'open-sans-regular' !important;
+      }
+
+
+        .favorite_market span{
+          color: #fff !important;
+        }
+
+         .center > th{text-align: center;}
+         .input-coin{
+         /*border: groove;padding: 10px;*/
+         width: 100%;
+         text-align: center;
+         }
+         .cursor-pointer{
+         cursor: pointer;
+         }
+         /*.close-status{
+         background-color: rgb(97, 95, 95);
+         opacity: 0.5;
+         }*/
+         @media (max-width: 767px) {
+         .mob-col-width-ch{
+         width: 40%;
+         }
+         .session-resp-tbl{
+          width: 112%;
+         }
+         }
+
+/*style for refresh button*/
+.span-btn{
+height: 35px;
+width: auto;
+margin-left: 0px;
+}
+.img-height {
+    height: 30px;
+    margin-top: 5px;
+    width: auto;
+    margin-left: 3px;
+}
+@media all and (max-width: 767px){
+  .refresh-btn{
+      display: none !important;
+    }
+}
+@media all and (max-width: 768px){
+  .span-btn {
+    height: 35px;
+    width: auto;
+    margin-left: 0px;
+}
+.img-height {
+    height: 30px;
+    margin-top: 5px;
+    width: auto;
+    margin-left: 0px;
+}
+.match-box{
+  margin-top: -4% !important;
+}
+.navbar {
+    margin-bottom: 0px !important;
+}
+.header-top-spacing {
+    padding-top: 10px;
+}
+.flag{
+  padding: 8px 8px 8px 0px !important;
+}
+
+
+  .inplay-show-tbl-td img{
+    position: absolute;
+    right: 24px;
+    top: 18px;
+  }
+  .inplay-show-tbl-td{
+    text-align: center !important;
+    background-color: #3A61A2 !important;
+  }
+  .refresh-small-screen{
+    text-align: center;
+    background-color: #fff;
+    padding-top: 15px;
+    padding-bottom: 14px;
+    width: 15.7%;
+  }
+}
+
+@media all and (min-width: 768px){
+    .inplay-show-tbl-td img{
+      display: none;
+    }
+    .bet-now{
+      position: relative;
+      right: 15px;
+    }
+    .refresh-small-screen{
+      display: none;
+    }
+}
+.refresh-btn{
+    padding-right: 15px;
+    /*width: 14.3%;*/
+    float: right;
+    background-color: #fff;
+    text-align: center;
+    padding: 14px;
+    position: relative;
+    right: 5px;
+}
+@media all and (max-width: 480px) and (min-width: 300px){
+.match-score{
+  width: 75% !important;
+}
+.refresh-small-screen{
+  width: 23.5% !important;
+  padding-top: 18px !important;
+  padding-bottom: 17px !important;
+}
+.refresh-small-screen img{
+  width: 40px !important;
+}
+}
+
+
+
+  @media all and (max-width: 768px){
+    .header-top-spacing .row{
+      margin: auto 15px !important;
+    }
+  }
+
+
+
+.navbar-fixed-bottom{
+        position: static !important;
+      }
+body{
+  overflow: auto;
+}
+
+.bet_status_box{
+  display: table !important;
+}
+.bet_status_box .inplay-show-place-bet{
+  display: table-cell !important;
+  text-align: center !important;
+  vertical-align: middle !important;
+  padding: 0px 10px !important;
+}
+
+
+.match-status-table{
+  display: table !important;
+  line-height: 1.5;
+}
+.match-status-text{
+  display: table-cell !important;
+  text-align: center !important;
+  vertical-align: middle !important;
+  padding: 0px 10px !important;
+}
+
+.bet_status_box .inplay-show-place-bet,
+.match-status-table,
+.refresh-btn.reload-class{
+  height: 100px !important;
+}
+
+
+td.first-runner-bet-odds-yes-value,
+td.bet-val-cent,
+td.first-runner-bet-odds-no-value
+{
+  font-size: 16px !important;
+  font-weight: 600 !important;
+  font-family: 'open-sans-semibold' !important;
+}
+.bet-place-tbl-td,
+.bet-odds-type{
+  font-size: 14px;
+  font-family: 'open-sans-semibold' !important;
+}
+
+.session-th-strip{
+  background-color:  #6E8FC9 !important;
+}
+.close-status.yes_rate{
+  opacity: 1.0;
+}
+.close-status.no_rate{
+  opacity: 1.0;
+}
+
+
+      </style>
+
+      <style type="text/css">
+   @media (max-width: 768px){
+   .header-top-spacing .row {
+   margin: 15px 15px !important;
+   }
+   }
+   p.match-time-dtl-date.live-report-match-time,
+   p.match-time-dtl-mounth.live-report-match-month,
+   p.match-time-dtl-mounth.live-report-match-date{
+   margin: 0;
+   }
+   .in-play-row-left.live-report-in-play-row-left{
+   height: 80px;
+   }
+   .align-left{
+     text-align: left;
+   }
+</style>

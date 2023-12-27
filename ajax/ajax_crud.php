@@ -1,0 +1,58 @@
+<?php
+include('config.php');
+$post_data=sanatize($_POST);
+$get_data=sanatize($_GET);
+extract($post_data);
+extract($get_data);
+$data='';
+$status=0;
+if($type=='insert')
+{
+  $data=insert_array($table_name,$table_data);
+  $status=1;
+}
+elseif($type=='update')
+{
+$data=update_array($table_name,$table_data,$where);
+$status=1;
+}
+elseif($type=='delete')
+{
+ 
+}
+elseif($type=='get')
+{
+if(isset($where))
+{
+    if(isset($single))
+    {
+       $data=get_data($table_name,$where,'s');
+    }
+    else
+    {
+       $data=get_data($table_name,$where);
+    }
+}
+else
+{
+if(isset($single))
+    {
+       $data=get_data($table_name,'','s');
+    }
+    else
+    {
+       $data=get_data($table_name,'');
+    }
+}
+$status=1;
+}
+
+$data_to_send=array(
+    'data'=>$data,
+    'status'=>$status,
+);
+$data=json_encode($data_to_send);
+echo $data;
+exit();
+die;
+?>

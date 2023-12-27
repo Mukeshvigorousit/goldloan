@@ -1,0 +1,232 @@
+[18-Nov-2023 12:08:15 Asia/Kolkata] PHP Warning:  Undefined array key "weight_mlgm_gold" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 77
+[18-Nov-2023 12:08:15 Asia/Kolkata] PHP Warning:  Undefined array key "weight_gm_gold" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 77
+[18-Nov-2023 12:08:15 Asia/Kolkata] PHP Warning:  Undefined array key "weight_mlgm_silver" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 79
+[18-Nov-2023 12:08:15 Asia/Kolkata] PHP Warning:  Undefined array key "weight_gm_silver" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 79
+[18-Nov-2023 12:08:15 Asia/Kolkata] PHP Warning:  Undefined array key "weight_kg_silver" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 79
+[18-Nov-2023 12:08:15 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 106
+[18-Nov-2023 18:52:31 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 115
+[18-Nov-2023 18:52:45 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 115
+[18-Nov-2023 19:38:22 Asia/Kolkata] PHP Warning:  Undefined array key "weight_mlgm_gold" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 77
+[18-Nov-2023 19:38:22 Asia/Kolkata] PHP Warning:  Undefined array key "weight_gm_gold" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 77
+[18-Nov-2023 19:38:22 Asia/Kolkata] PHP Warning:  Undefined array key "weight_mlgm_silver" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 79
+[18-Nov-2023 19:38:22 Asia/Kolkata] PHP Warning:  Undefined array key "weight_gm_silver" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 79
+[18-Nov-2023 19:38:22 Asia/Kolkata] PHP Warning:  Undefined array key "weight_kg_silver" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 79
+[18-Nov-2023 19:38:22 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 106
+[18-Nov-2023 19:39:38 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 115
+[21-Nov-2023 11:22:38 Asia/Kolkata] PHP Warning:  Undefined array key "weight_mlgm_gold" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 77
+[21-Nov-2023 11:22:38 Asia/Kolkata] PHP Warning:  Undefined array key "weight_gm_gold" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 77
+[21-Nov-2023 11:22:38 Asia/Kolkata] PHP Warning:  Undefined array key "weight_mlgm_silver" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 79
+[21-Nov-2023 11:22:38 Asia/Kolkata] PHP Warning:  Undefined array key "weight_gm_silver" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 79
+[21-Nov-2023 11:22:38 Asia/Kolkata] PHP Warning:  Undefined array key "weight_kg_silver" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 79
+[21-Nov-2023 11:22:38 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 106
+[21-Nov-2023 18:13:22 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 115
+[21-Nov-2023 18:13:56 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 115
+[21-Nov-2023 22:24:57 Asia/Kolkata] PHP Warning:  Undefined array key "weight_mlgm_gold" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 77
+[21-Nov-2023 22:24:57 Asia/Kolkata] PHP Warning:  Undefined array key "weight_gm_gold" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 77
+[21-Nov-2023 22:24:57 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: array + null in /home2/einfo7e5/railway.einfotech.in/model/create_order.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 77
+[21-Nov-2023 22:26:11 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 134
+[22-Nov-2023 11:40:45 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 158
+[22-Nov-2023 11:41:11 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 158
+[22-Nov-2023 11:42:16 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 134
+[22-Nov-2023 18:15:07 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 158
+[22-Nov-2023 18:18:14 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 134
+[23-Nov-2023 12:07:16 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 134
+[23-Nov-2023 13:40:29 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 134
+[24-Nov-2023 16:32:15 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 134
+[24-Nov-2023 16:40:51 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 158
+[24-Nov-2023 17:20:07 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 134
+[24-Nov-2023 17:21:24 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 158
+[24-Nov-2023 20:06:18 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 134
+[24-Nov-2023 20:36:32 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 134
+[29-Nov-2023 12:00:53 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 158
+[29-Nov-2023 12:57:26 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 134
+[29-Nov-2023 22:12:37 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sanitizeArray() in /home2/einfo7e5/railway.einfotech.in/model/create_order.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 9
+[29-Nov-2023 22:13:29 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/einfo7e5/railway.einfotech.in/include/user_function.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/einfo7e5/railway.einfotech.in/include/config.php:9
+Stack trace:
+#0 /home2/einfo7e5/railway.einfotech.in/model/create_order.php(2): include()
+#1 {main}
+  thrown in /home2/einfo7e5/railway.einfotech.in/include/config.php on line 9
+[29-Nov-2023 22:13:41 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 325
+[29-Nov-2023 22:13:45 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 325
+[29-Nov-2023 22:15:56 Asia/Kolkata] PHP Warning:  Undefined variable $grade in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 326
+[29-Nov-2023 22:15:56 Asia/Kolkata] PHP Warning:  Undefined variable $grade in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 327
+[29-Nov-2023 22:15:56 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 358
+[29-Nov-2023 22:16:02 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 358
+[29-Nov-2023 22:17:15 Asia/Kolkata] PHP Warning:  Array to string conversion in /home2/einfo7e5/railway.einfotech.in/include/user_function.php on line 346
+[29-Nov-2023 22:17:15 Asia/Kolkata] PHP Warning:  Undefined array key "insert_id" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 179
+[29-Nov-2023 22:17:15 Asia/Kolkata] PHP Warning:  Undefined variable $grade in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 194
+[29-Nov-2023 22:17:15 Asia/Kolkata] PHP Warning:  Undefined variable $grade in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 195
+[29-Nov-2023 22:17:15 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 229
+[29-Nov-2023 22:20:37 Asia/Kolkata] PHP Warning:  Undefined variable $grade in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 195
+[29-Nov-2023 22:20:37 Asia/Kolkata] PHP Warning:  Undefined variable $grade in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 196
+[29-Nov-2023 22:20:37 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 230
+[29-Nov-2023 22:20:42 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 359
+[29-Nov-2023 22:21:13 Asia/Kolkata] PHP Warning:  Undefined variable $grade in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 195
+[29-Nov-2023 22:21:13 Asia/Kolkata] PHP Warning:  Undefined variable $grade in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 196
+[29-Nov-2023 22:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 230
+[30-Nov-2023 11:57:58 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in /home2/einfo7e5/railway.einfotech.in/model/create_order.php:101
+Stack trace:
+#0 {main}
+  thrown in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 101
+[30-Nov-2023 11:58:38 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in /home2/einfo7e5/railway.einfotech.in/model/create_order.php:101
+Stack trace:
+#0 {main}
+  thrown in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 101
+[30-Nov-2023 11:59:12 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in /home2/einfo7e5/railway.einfotech.in/model/create_order.php:101
+Stack trace:
+#0 {main}
+  thrown in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 101
+[30-Nov-2023 12:00:09 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in /home2/einfo7e5/railway.einfotech.in/model/create_order.php:101
+Stack trace:
+#0 {main}
+  thrown in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 101
+[30-Nov-2023 12:00:47 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in /home2/einfo7e5/railway.einfotech.in/model/create_order.php:101
+Stack trace:
+#0 {main}
+  thrown in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 101
+[30-Nov-2023 12:44:45 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 27
+[30-Nov-2023 12:44:45 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 58
+[30-Nov-2023 12:44:45 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 62
+[30-Nov-2023 12:44:45 Asia/Kolkata] PHP Warning:  Undefined array key "order_id" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 93
+[30-Nov-2023 12:44:45 Asia/Kolkata] PHP Warning:  Undefined variable $item_id in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 95
+[30-Nov-2023 12:44:45 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 95
+[30-Nov-2023 12:44:45 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 95
+[30-Nov-2023 12:44:45 Asia/Kolkata] PHP Warning:  Undefined variable $loan_amount in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 101
+[30-Nov-2023 12:44:45 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 109
+[30-Nov-2023 12:44:45 Asia/Kolkata] PHP Warning:  Undefined array key "net_weight_gram_gold" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 115
+[30-Nov-2023 12:44:45 Asia/Kolkata] PHP Warning:  Undefined array key "net_weight_gram_gold" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 120
+[30-Nov-2023 12:44:45 Asia/Kolkata] PHP Warning:  Undefined array key "net_weight_gram_silver" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 123
+[30-Nov-2023 12:44:45 Asia/Kolkata] PHP Warning:  Undefined array key "net_weight_gram_silver" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 128
+[30-Nov-2023 12:44:45 Asia/Kolkata] PHP Warning:  Undefined variable $loan_date in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 133
+[30-Nov-2023 12:44:45 Asia/Kolkata] PHP Warning:  Undefined variable $loan_amount in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 137
+[30-Nov-2023 12:44:45 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 140
+[30-Nov-2023 12:45:34 Asia/Kolkata] PHP Warning:  Undefined variable $item_id in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 95
+[30-Nov-2023 12:45:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 95
+[30-Nov-2023 12:45:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 95
+[30-Nov-2023 12:45:34 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in /home2/einfo7e5/railway.einfotech.in/model/create_order.php:101
+Stack trace:
+#0 {main}
+  thrown in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 101
+[30-Nov-2023 12:46:59 Asia/Kolkata] PHP Warning:  Undefined variable $grade in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 195
+[30-Nov-2023 12:46:59 Asia/Kolkata] PHP Warning:  Undefined variable $grade in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 196
+[30-Nov-2023 12:46:59 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 230
+[30-Nov-2023 12:49:10 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 359
+[30-Nov-2023 20:59:23 Asia/Kolkata] PHP Warning:  Undefined variable $grade in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 201
+[30-Nov-2023 20:59:23 Asia/Kolkata] PHP Warning:  Undefined variable $grade in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 202
+[30-Nov-2023 20:59:23 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 236
+[30-Nov-2023 21:04:52 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/einfo7e5/railway.einfotech.in/include/user_function.php:111
+Stack trace:
+#0 /home2/einfo7e5/railway.einfotech.in/include/user_function.php(111): mysqli_fetch_assoc(false)
+#1 /home2/einfo7e5/railway.einfotech.in/model/create_order.php(322): get_data('item_list', 'order_id='1'', 's')
+#2 {main}
+  thrown in /home2/einfo7e5/railway.einfotech.in/include/user_function.php on line 111
+[30-Nov-2023 21:06:25 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/einfo7e5/railway.einfotech.in/include/user_function.php:111
+Stack trace:
+#0 /home2/einfo7e5/railway.einfotech.in/include/user_function.php(111): mysqli_fetch_assoc(false)
+#1 /home2/einfo7e5/railway.einfotech.in/model/create_order.php(322): get_data('item_list', 'order_id='1'', 's')
+#2 {main}
+  thrown in /home2/einfo7e5/railway.einfotech.in/include/user_function.php on line 111
+[30-Nov-2023 21:06:27 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/einfo7e5/railway.einfotech.in/include/user_function.php:111
+Stack trace:
+#0 /home2/einfo7e5/railway.einfotech.in/include/user_function.php(111): mysqli_fetch_assoc(false)
+#1 /home2/einfo7e5/railway.einfotech.in/model/create_order.php(322): get_data('item_list', 'order_id='1'', 's')
+#2 {main}
+  thrown in /home2/einfo7e5/railway.einfotech.in/include/user_function.php on line 111
+[30-Nov-2023 21:06:33 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/einfo7e5/railway.einfotech.in/include/user_function.php:111
+Stack trace:
+#0 /home2/einfo7e5/railway.einfotech.in/include/user_function.php(111): mysqli_fetch_assoc(false)
+#1 /home2/einfo7e5/railway.einfotech.in/model/create_order.php(322): get_data('item_list', 'order_id='2'', 's')
+#2 {main}
+  thrown in /home2/einfo7e5/railway.einfotech.in/include/user_function.php on line 111
+[30-Nov-2023 21:09:06 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/einfo7e5/railway.einfotech.in/include/user_function.php:104
+Stack trace:
+#0 /home2/einfo7e5/railway.einfotech.in/include/user_function.php(104): mysqli_fetch_assoc(false)
+#1 /home2/einfo7e5/railway.einfotech.in/model/create_order.php(323): get_data('item_list', 'order_id='2'')
+#2 {main}
+  thrown in /home2/einfo7e5/railway.einfotech.in/include/user_function.php on line 104
+[30-Nov-2023 21:09:24 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/einfo7e5/railway.einfotech.in/include/user_function.php:104
+Stack trace:
+#0 /home2/einfo7e5/railway.einfotech.in/include/user_function.php(104): mysqli_fetch_assoc(false)
+#1 /home2/einfo7e5/railway.einfotech.in/model/create_order.php(323): get_data('item_list', 'order_id='2'')
+#2 {main}
+  thrown in /home2/einfo7e5/railway.einfotech.in/include/user_function.php on line 104
+[30-Nov-2023 21:09:47 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/einfo7e5/railway.einfotech.in/include/user_function.php:104
+Stack trace:
+#0 /home2/einfo7e5/railway.einfotech.in/include/user_function.php(104): mysqli_fetch_assoc(false)
+#1 /home2/einfo7e5/railway.einfotech.in/model/create_order.php(323): get_data('item_list', 'order_id='2'')
+#2 {main}
+  thrown in /home2/einfo7e5/railway.einfotech.in/include/user_function.php on line 104
+[30-Nov-2023 21:10:36 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_item() in /home2/einfo7e5/railway.einfotech.in/model/create_order.php:323
+Stack trace:
+#0 {main}
+  thrown in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 323
+[30-Nov-2023 21:24:26 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 406
+[30-Nov-2023 21:24:35 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 406
+[30-Nov-2023 21:33:37 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 408
+[30-Nov-2023 21:33:43 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 408
+[30-Nov-2023 22:03:29 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in /home2/einfo7e5/railway.einfotech.in/model/create_order.php:49
+Stack trace:
+#0 {main}
+  thrown in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 49
+[30-Nov-2023 22:03:53 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 246
+[30-Nov-2023 22:03:58 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 246
+[01-Dec-2023 16:17:12 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in /home2/einfo7e5/railway.einfotech.in/model/create_order.php:49
+Stack trace:
+#0 {main}
+  thrown in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 49
+[01-Dec-2023 16:19:08 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 135
+[01-Dec-2023 16:27:25 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 135
+[01-Dec-2023 16:32:44 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 135
+[01-Dec-2023 16:37:30 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 135
+[01-Dec-2023 18:02:35 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 246
+[01-Dec-2023 20:26:13 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 271
+[01-Dec-2023 20:28:31 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 271
+[01-Dec-2023 20:35:14 Asia/Kolkata] PHP Warning:  Undefined variable $gold_weight in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 72
+[01-Dec-2023 20:35:14 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 72
+[01-Dec-2023 20:35:14 Asia/Kolkata] PHP Warning:  Undefined variable $gold_weight in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 73
+[01-Dec-2023 20:35:14 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 73
+[01-Dec-2023 20:35:14 Asia/Kolkata] PHP Warning:  Undefined variable $gold_weight in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 74
+[01-Dec-2023 20:35:14 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 74
+[01-Dec-2023 20:35:14 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 151
+[01-Dec-2023 20:35:53 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 271
+[04-Dec-2023 14:06:09 Asia/Kolkata] PHP Warning:  Undefined variable $gold_weight in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 72
+[04-Dec-2023 14:06:09 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 72
+[04-Dec-2023 14:06:09 Asia/Kolkata] PHP Warning:  Undefined variable $gold_weight in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 73
+[04-Dec-2023 14:06:09 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 73
+[04-Dec-2023 14:06:09 Asia/Kolkata] PHP Warning:  Undefined variable $gold_weight in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 74
+[04-Dec-2023 14:06:09 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 74
+[04-Dec-2023 14:06:09 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 151
+[04-Dec-2023 21:03:54 Asia/Kolkata] PHP Warning:  Undefined variable $gold_weight in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 72
+[04-Dec-2023 21:03:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 72
+[04-Dec-2023 21:03:54 Asia/Kolkata] PHP Warning:  Undefined variable $gold_weight in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 73
+[04-Dec-2023 21:03:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 73
+[04-Dec-2023 21:03:54 Asia/Kolkata] PHP Warning:  Undefined variable $gold_weight in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 74
+[04-Dec-2023 21:03:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 74
+[04-Dec-2023 21:03:54 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 151
+[04-Dec-2023 21:22:25 Asia/Kolkata] PHP Warning:  Undefined variable $gold_weight in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 72
+[04-Dec-2023 21:22:25 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 72
+[04-Dec-2023 21:22:25 Asia/Kolkata] PHP Warning:  Undefined variable $gold_weight in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 73
+[04-Dec-2023 21:22:25 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 73
+[04-Dec-2023 21:22:25 Asia/Kolkata] PHP Warning:  Undefined variable $gold_weight in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 74
+[04-Dec-2023 21:22:25 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 74
+[04-Dec-2023 21:22:25 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 151
+[05-Dec-2023 11:37:16 Asia/Kolkata] PHP Warning:  Undefined variable $gold_weight in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 72
+[05-Dec-2023 11:37:16 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 72
+[05-Dec-2023 11:37:16 Asia/Kolkata] PHP Warning:  Undefined variable $gold_weight in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 73
+[05-Dec-2023 11:37:16 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 73
+[05-Dec-2023 11:37:16 Asia/Kolkata] PHP Warning:  Undefined variable $gold_weight in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 74
+[05-Dec-2023 11:37:16 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 74
+[05-Dec-2023 11:37:16 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 151
+[05-Dec-2023 11:39:14 Asia/Kolkata] PHP Warning:  Undefined variable $gold_weight in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 72
+[05-Dec-2023 11:39:14 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 72
+[05-Dec-2023 11:39:14 Asia/Kolkata] PHP Warning:  Undefined variable $gold_weight in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 73
+[05-Dec-2023 11:39:14 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 73
+[05-Dec-2023 11:39:14 Asia/Kolkata] PHP Warning:  Undefined variable $gold_weight in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 74
+[05-Dec-2023 11:39:14 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 74
+[05-Dec-2023 11:39:14 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home2/einfo7e5/railway.einfotech.in/model/create_order.php on line 151
